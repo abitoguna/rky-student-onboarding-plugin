@@ -17,7 +17,7 @@ define('RKY_API_PASSWORD', 'your_api_password');
 
 ## API Usage
 ### Endpoint
-- **URL**: `/wp-json/rky-student-onboarding/students`
+- **URL**: `/wp-json/v1/rky-student-onboarding/students`
 - **Method**: POST
 - **Authentication**: Basic Auth
 
